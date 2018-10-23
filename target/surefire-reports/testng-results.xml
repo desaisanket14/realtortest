@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="3" passed="3">
+  <reporter-output>
+  </reporter-output>
+  <suite name="test.HomeSearchTest" duration-ms="12439" started-at="2018-10-23T07:51:40Z" finished-at="2018-10-23T07:51:52Z">
+    <groups>
+    </groups>
+    <test name="Command line test" duration-ms="12439" started-at="2018-10-23T07:51:40Z" finished-at="2018-10-23T07:51:52Z">
+      <class name="test.HomeSearchTest">
+        <test-method status="PASS" signature="openWebsite()[pri:0, instance:test.HomeSearchTest@4d1c005e]" name="openWebsite" duration-ms="11683" started-at="2018-10-23T01:51:40Z" finished-at="2018-10-23T01:51:52Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openWebsite -->
+        <test-method status="PASS" signature="searchResultCount()[pri:0, instance:test.HomeSearchTest@4d1c005e]" name="searchResultCount" duration-ms="88" started-at="2018-10-23T01:51:52Z" finished-at="2018-10-23T01:51:52Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- searchResultCount -->
+        <test-method status="PASS" signature="searchHomes()[pri:0, instance:test.HomeSearchTest@4d1c005e]" name="searchHomes" duration-ms="653" started-at="2018-10-23T01:51:52Z" finished-at="2018-10-23T01:51:52Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- searchHomes -->
+      </class> <!-- test.HomeSearchTest -->
+    </test> <!-- Command line test -->
+  </suite> <!-- test.HomeSearchTest -->
+</testng-results>
