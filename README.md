@@ -46,7 +46,7 @@ or
 mvn test
 ```
 
-### Output (if file is run Successfully)
+### Output (If file runs Successfully)
 Test Case Shows 3 test results since Scenario 3 & Scenario 4 are Combined into one test
 ```
 [RemoteTestNG] detected TestNG version 6.14.2
